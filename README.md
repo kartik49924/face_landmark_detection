@@ -35,7 +35,7 @@ Following is an example command i ran from my system:
 `python3 facial_landmarks.py --shape-predictor ./shape_predictor_68_face_landmarks.dat --image ./image.jpeg`
 
 This is the expected result from script (if executed successfully)-
-![image](./imag2.png)
+![image](./imag3.png)
 ![image](./image2.png)
 
 After script runs succesfully, **facial_landmarks.csv** gets saved in the download folder of system. This file containes
