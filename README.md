@@ -40,6 +40,6 @@ This is the expected result from script (if executed successfully)-
 
 After script runs succesfully, **facial_landmarks.csv** gets saved in the download folder of system. This file containes the coordinates of facial_landmarks for each face. Following is sample output of facial_landmarks.csv-
 
-~[image](./image1.png)
+![image](./image1.png)
 
 
